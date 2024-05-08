@@ -1,0 +1,29 @@
+@font-face{
+  font-family: 'TTNorms-Medium';
+  font-weight: 400;
+  font-style: normal;
+  src: local('TTNorms-Medium'),
+       url('../fonts/TTNorms-Medium.woff2') format("woff2"),
+       url('../fonts/TTNorms-Medium.woff') format("woff");
+  font-display: swap;
+}
+
+@font-face{
+  font-family: 'TTNorms-Bold';
+  font-weight: 700;
+  font-style: normal;
+  src: local('TTNorms-Bold'),
+       url('../fonts/TTNorms-Bold.woff2') format("woff2"),
+       url('../fonts/TTNorms-Bold.woff') format("woff");
+  font-display: swap;
+}
+
+@font-face{
+  font-family: 'Yeseva One';
+  font-weight: 400;
+  font-style: normal;
+  src: local('Yeseva One'),
+       url('../fonts/Yeseva One.woff2') format("woff2"),
+       url('../fonts/Yeseva One.woff') format("woff");
+  font-display: swap;
+}
